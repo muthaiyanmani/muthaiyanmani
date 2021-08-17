@@ -14,6 +14,7 @@
 -->
 ![muthaiyan](https://user-images.githubusercontent.com/56546428/121013736-d8c9a100-c7b6-11eb-8963-de0f2228fada.jpg)
 
+[Instagram - @imuthaiyan](https://instagram.com/imuthaiyan)
 
 
   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)

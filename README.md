@@ -4,7 +4,7 @@
 - 📫 Reach me: ...
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muthaiyanmani/)
 [![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/muthaiyanmani)
-[![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/imuthaiyan/)
+[![Connect on Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imuthaiyan/)
 
 ## 🛠️ Languages , Libraries & Tools
 <p>
@@ -28,7 +28,6 @@
 <p align="center">&nbsp;
  <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthaiyanmani&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muthaiyanmani&theme=blue-green" />
     <br>
 </p>
 

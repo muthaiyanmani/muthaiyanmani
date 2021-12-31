@@ -21,11 +21,11 @@
  
  GitHub Stats
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muthaiyanmani&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
+ <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthaiyanmani&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muthaiyanmani&theme=dracula" />
 </p>
 
 
-![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=muthaiyanmani&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![Muthaiyan Mani's github activity graph](https://activity-graph.herokuapp.com/graph?username=muthaiyanmani&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 

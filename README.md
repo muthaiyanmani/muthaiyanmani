@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-✨ 
-
 - 👯 I’m looking to collaborate on ... Full stack web Development
-- 📫 How to reach me: ...
-- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muthaiyanmani/)
+- 📫 Reach me: ...
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muthaiyanmani/)
 [![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/muthaiyanmani)
 [![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/imuthaiyan/)
 
@@ -22,11 +20,10 @@
 </p>
   
  
- GitHub Stats
+## GitHub Stats
 <p align="center">&nbsp;
  <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthaiyanmani&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muthaiyanmani&theme=dracula" />
 </p>
 
 

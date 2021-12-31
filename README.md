@@ -3,7 +3,10 @@
 ✨ 
 
 - 👯 I’m looking to collaborate on ... Full stack web Development
-- 📫 How to reach me: ... hello@muthaiyan.me
+- 📫 How to reach me: ...
+- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muthaiyanmani/)
+[![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/muthaiyanmani)
+[![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/imuthaiyan/)
 
 ## 🛠️ Languages , Libraries & Tools
 <p>

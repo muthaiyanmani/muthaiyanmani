@@ -15,7 +15,6 @@
     <code href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
     <code href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
     <code href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
-    <code href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
     <code href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 </p>
 
@@ -29,7 +28,7 @@
 <p align="center">&nbsp;
  <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthaiyanmani&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
-    <img align="center" src=" https://github-readme-stats.vercel.app/api?username=muthaiyanmani&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muthaiyanmani&theme=blue-green" />
     <br>
 </p>
 
